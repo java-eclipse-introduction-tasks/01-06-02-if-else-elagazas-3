@@ -1,4 +1,4 @@
-# 01-06-02-if-else-elagazas-3
+# 01-06-03-if-else-elagazas-3
 Kétágú elágazások  
 1. feladat (Pont a körön)    
 Egy K körlemezt a következő adatokkal adunk meg: K(x ,y ,r ), ahol x és y a körlemez középpontjának koordinátái, r pedig a körlemez sugara. Egy tetszőleges P(a,b) pont – ahol a és b a pont koordinátái – rajta van a K körlemezen, ha (x-a)^2+(y-b)^2<=r^2.  
