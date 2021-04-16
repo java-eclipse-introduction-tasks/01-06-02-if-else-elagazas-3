@@ -11,4 +11,7 @@ Egy autó üzemanyag-fogyasztását olyan módon adjuk meg, hogy 100 kilométer 
 *„Az út során tankolni kell!”*   
 Megjegyzés: Ha a fogyasztás F és az üzemanyagtartály térfogata V, akkor az autó egy tank benzinnel V*100/F kilométert tesz meg.   
 3. feladat (Kerekítés)  
-Valamely pénzkifizetés legkisebb egysége az 5 forintos. Írjunk programot, amely a bekért értéket 5-re kerekíti. (1, 2, 6 és 7 esetén lefelé, 3, 4, 8 és 9 esetén pedig felfelé kell kerekítenie.)
+Írjunk programot, amely a bekért értéket kerekíti. (Ha az utolsó számjegy<5 lefelé, egyébként felfelé).  
+utolsoszamjegy = szam % 10  
+[haladó]  
+Valamely pénzkifizetés legkisebb egysége az 5 forintos. Írjunk programot, amely a bekért értéket 5-re kerekíti. (1, 2, 6 és 7 esetén lefelé, 3, 4, 8 és 9 esetén pedig felfelé kell kerekítenie.)  
